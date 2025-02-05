@@ -14,9 +14,9 @@ This is a Windows Forms application that provides a simple and efficient way to 
 
 ## Installation ⚙️
 1. **Clone or Download the Repository**: 
-1. ```bash 
-1. git clone https://github.com/ZoniBoy00/DLL-Injector.git
-1. ```
+```bash 
+git clone https://github.com/ZoniBoy00/DLL-Injector.git
+```
 
 2. **Open the Solution in Visual Studio**:
 - Open the `DLLInjectorApp.sln` file in Visual Studio.
